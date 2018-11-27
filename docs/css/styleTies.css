@@ -6,3 +6,7 @@
 .container-offset {
   padding-top: 60px;
 }
+
+.bannerStyle {
+  max-height: 600px;
+}

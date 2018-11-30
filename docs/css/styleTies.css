@@ -21,3 +21,18 @@
   width: 100vw;
   height: 63.36vw;
 }
+
+.linkContentBlock {
+  width: 100%;
+  margin: 1rem 1rem 1rem 1rem;
+  border-style: solid;
+  border-color: gold;
+  text-align: center;
+}
+
+.contentBlockImg {
+  object-fit: scale-down;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
